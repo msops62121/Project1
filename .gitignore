@@ -1,1 +1,4 @@
 git.py
+
+
+eval "$(ssh-agent -s)" && ssh-add ~/.ssh/msops62121
